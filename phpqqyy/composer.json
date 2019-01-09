@@ -1,0 +1,17 @@
+{
+  "name": "cik/phpqqyy",
+  "authors": [
+    {
+      "name": "楼教主",
+      "email": "cik520@qq.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^6.3"
+  },
+  "autoload": {
+    "files": [
+      "fetch.php"
+    ]
+  }
+}
